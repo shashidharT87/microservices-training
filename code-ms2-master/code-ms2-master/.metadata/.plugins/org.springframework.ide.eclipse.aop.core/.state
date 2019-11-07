@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="fares"/>
+<aop-project name="book"/>
+<aop-project name="config-server"/>
+<aop-project name="search"/>
+<aop-project name="eureka-server"/>
+<aop-project name="checkin"/>
+<aop-project name="api-gateway"/>
+<aop-project name="website"/>
+</aop-reference-model>
